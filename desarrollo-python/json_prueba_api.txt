@@ -1,0 +1,12 @@
+
+{
+  "dictionary": 
+   {"_id":{"0":"5c4af73a8e4762056f69e553a75b024f","1":"e4fd097f8b354df93ac994897b750e7b","2":"1dc2951ca4e87e8557c04c355054ba0e"}, 
+  "subsidiary":{"0":"9117edfb1b2002a55a32551a5d402afe","1":"772e276226019a492b077d923bbf651e","2":"b38451c609131c1bbaafb6c2b9c11776"},
+  "transaction_date":{"0":"2021-11-30 17:04:06","1":"2021-11-30 11:24:38","2":"2021-11-30 20:58:40"},
+  "account_number":{"0":"97f3d136800f2e1717ae71c9ccf79a7e","1":"fb3c5d31d6d90ad61c8fc89b52d15d07","2":"b0b21e266607e17f79625f5d20a18ac2"},
+  "user_id":{"0":"cf0cb252ffed8cf7e5a4df10262c1e55","1":"c17a6930e9328f417b4809fb191131c5","2":"bf3f0d578424f54d7ace1d66f6ffe00e"},
+  "transaction_amount":{"0":142.66692029,"1":1795.22541373,"2":11.88891002},
+  "transaction_type":{"0":"DEBITO","1":"DEBITO","2":"DEBITO"},
+  "merchant_id":{"0":"817d18cd3c31e40e9bff0566baae7758","1":"817d18cd3c31e40e9bff0566baae7758","2":"817d18cd3c31e40e9bff0566baae7758"}}
+}
